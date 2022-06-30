@@ -6,13 +6,13 @@ import moment from 'moment-timezone'
 
 /**Owner number**/
 global.owner = [
-  ['6282195322106', '️Owner1 Hinata-Md', true],
-  ['6282195322106', '️Owner2 Hinata-Md', true],
-  ['6282195322106', '️Owner3 Hinata-Md', true],
-  ['6282195322106', '️Owner4 Hinata-Md', true],
-  ['6282195322106', '️Owner5 Hinata-Md', true],
-  ['6282195322106', '️Owner6 Hinata-Md', true],
-  ['6282195322106', '️Owner Hinata-Md', true]
+  ['6285862754807', '️Owner1 Xyz-Md', true],
+  ['6285862754807', '️Owner2 Xyz-Md', true],
+  ['6285862754807', '️Owner3 Xyz-Md', true],
+  ['6285862754807', '️Owner4 Xyz-Md', true],
+  ['6285862754807', '️Owner5 Xyz-Md', true],
+  ['6285862754807', '️Owner6 Xyz-Md', true],
+  ['6285862754807', '️Owner Xyz-Md', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -68,15 +68,15 @@ let keyalpha = api[Math.floor(Math.random() * api.length)]
 global.apikeys = keyalpha
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285171216276'
-global.nomorown = '6282195322106'
-global.namebot = 'Hinata Md'
-global.nameown = 'Owner Hinata Md'
+global.nomorbot = '6281546988821'
+global.nomorown = '6285862754807'
+global.namebot = 'Xyz-Md'
+global.nameown = 'Owner Nopan Md'
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Hinata-Md あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Hinata-Md'
+global.wm = '                「 Nopan-Md あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - Xyz˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Xyz-Md'
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
@@ -104,11 +104,11 @@ global.thumbnailUrl = [
 ]
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/wudysoft.2'
-global.sgh = 'https://github.com/AyGemuy'
+global.sig = '-'
+global.sgh = 'https://github.com/XYZBOTZ'
 global.sgc = 'https://chat.whatsapp.com/HAuQGhEBwqFK8CzrrYOwLq'
-global.sdc = 'https://github.com/AyGemuy'
-global.snh = 'https://github.com/AyGemuy'
+global.sdc = 'https://github.com/XYZBOTZ'
+global.snh = 'https://github.com/XYZBOTZ'
 
 /*============== HENTAI ==============*/ 
 //OPTIONS
@@ -364,9 +364,9 @@ global.htjava = '⫹⫺' //hiasan Doang :v
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `☂︎ Hinata Md\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎ Nopan Md\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 global.packname = 'Created By'
-global.author = "Hinata-Md X Wudysoft"
+global.author = "Nopan-Md X Wudysoft"
 global.multiplier = 69 // The higher, The harder levelup
 
 /*============== ERR ==============*/
@@ -379,18 +379,18 @@ global.gcwangsaf = "https://chat.whatsapp.com/HAuQGhEBwqFK8CzrrYOwLq"//Link Grou
 
 /*============== PAYMENT ==============*/
 global.saweria = "https://saweria.co/wudysoft"// website saweria.co
-global.dana = ["0887435373103"]
-global.pulsa = ["082195322106"]//pulsa here
+global.dana = ["085862754807"]
+global.pulsa = ["085862754807"]//pulsa here
 global.trakteer = "https://trakteer.id/wudysoft"//Link url https://
 global.paypal = "wudysoft@gmail.com"//paypal email
 global.gopay = "082195322106"//Numver for Payment digital Gopay Gojek
 
 /*============== PAYMENT ==============*/
-global.pdana = '0887435373103'
-global.povo = '082195322106'
-global.pgopay = '082195322106'
-global.ppulsa = '082195322106'
-global.ppulsa2 = '082195322106'
+global.pdana = '085862754807'
+global.povo = '085862754807'
+global.pgopay = '085862754807'
+global.ppulsa = '085862754807'
+global.ppulsa2 = '085862754807'
 global.psaweria = 'https://saweria.com/Wudysoft'
 
 //Rpg
